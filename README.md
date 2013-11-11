@@ -9,11 +9,15 @@ Currently reading
 
 - The lean startup - Eric Reise
 - The rails 3 way - Obie Fernandez
-- Javascript Web Applications - Alex MacCaw
 
 Read
 ----
 
 - Head first design patterns - Elizabeth Freeman, Eric Freeman, Bert Bates, Kathy Sierra, Elizabeth Robson
+
+Planning to read
+----------------
+
+- Javascript Web Applications - Alex MacCaw
 
 
