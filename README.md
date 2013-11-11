@@ -9,6 +9,7 @@ Currently reading
 
 - The lean startup - Eric Reise
 - The rails 3 way - Obie Fernandez
+- Javascript Web Applications - Alex MacCaw
 
 Read
 ----
