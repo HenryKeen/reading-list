@@ -21,3 +21,12 @@ Planning to read
 - Javascript Web Applications - Alex MacCaw
 
 
+Blogs
+-----
+
+- Hanselman - http://www.hanselman.com/blog/
+- Morning brew - Chris Alcock - http://blog.cwa.me.uk/
+- Rob Ashton - http://codeofrob.com/blog.html
+- Troy Hunt - http://www.troyhunt.com/
+- Haacked - http://haacked.com/
+- Interesting Finds - Jason Haley - http://jasonhaley.com/
